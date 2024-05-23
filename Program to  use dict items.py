@@ -1,6 +1,5 @@
 dict1 ={'hey':9,5:'hu',1:'uo'}
-for i ,j in dict1.iteritems():
-    print(i,j)
-
+for key,val in dict1.items():
+    print(key,val)
 
     
