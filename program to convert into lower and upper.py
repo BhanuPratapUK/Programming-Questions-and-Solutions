@@ -1,0 +1,5 @@
+Text = input('Enter th etext -->')
+A = Text.lower()
+print('Here the text in LOWER case-->',A)
+B = Text.upper()
+print('Here thr Text in UPPER case-->',B)
