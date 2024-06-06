@@ -1,5 +1,2 @@
-name = '6767'
-if name == 'akas' or 'ksb' or'yoo':
-    print('Rockon')
-else:
-    print('NOt rockon')
+for i in range(9,2,-2):
+    print('Here the rotation of numbers__-->',i)
