@@ -1,0 +1,9 @@
+# %c = Character
+# %d or %i = integer
+# %s = String 
+# %u = unsigned decimal number
+# %o = Octal integer
+# %x = Hexadecimal
+# %f= floating point number 
+# %e or %E= Exponential Number
+# %g or %G = Short Number in Floating numbers and Exponential Number
