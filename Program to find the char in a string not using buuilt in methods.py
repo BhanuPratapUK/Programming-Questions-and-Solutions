@@ -1,7 +1,7 @@
 def find_chr(s,c):
     count=0
     for i in range(len(s)):
-        if s[i]==c:
+        if s[i]==c:S
             return i
         else:
             pass
