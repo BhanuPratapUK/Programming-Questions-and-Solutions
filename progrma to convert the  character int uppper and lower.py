@@ -4,3 +4,5 @@ if text>='A' and text<='Z':
 else:
     text>='a' and text<='z'
     print(text.upper())
+    ''' It will convert all characters according to user instructions
+    '''
