@@ -1,0 +1,5 @@
+(var1,var2,var3)= (100,200,300)
+tup1= (var1,var2,var3)
+print(tup1)
+tup2 = (1,2,3,4)
+print(tup2)
