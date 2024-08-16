@@ -7,7 +7,7 @@ for i  in range(1,6):
     print()
 
 '''
-OUTPUT
+OUTtPUT
 
 Pass 1 -  1  2  3  4  5  
 Pass 2 -  1  2  3  4  5
