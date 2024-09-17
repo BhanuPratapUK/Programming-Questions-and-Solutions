@@ -11,6 +11,5 @@
 
 alert = "This is an alert sound\a"
 form_feed = "First Page\fSecond Page"
-
-
+'''It will the beep sound  we need to turn on from the Text editor depend on that'''
 print(form_feed)
