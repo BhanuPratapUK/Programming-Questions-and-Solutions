@@ -1,0 +1,16 @@
+details=(('Bhanu',12,98),('Akash',13,98),('Devang',14,98))
+change=input('Please let me know to Change the Details of the person Yes or No-->')
+if change=='Yes':
+    OldName =input('Write the name of the person-->')
+    name=input('Write down the name->')
+    rollNo=input('Write the down the rolL no-->')
+    percen=input('Write down the Percentage of the  person--->')
+    new_details=()
+    for i in range(len(details)):
+        if details[i][0]== OldName:
+            new_details+=(name,rollNo,percen)
+        else:
+            new_details+= details[i]
+    print(new_details)
+
+
